@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+	--color-primary: #fd8bdf;
+	--color-secondary: #3a00e5;
+	--color-tertiary: #ffa439;
+
+	--color-purp: #d88cfa;
+	--color-brandpink: #ff99ec;
+	--color-dark: #101217;
+	--color-light: #ebf4f1;
+	--color-darken: #091a28;
+
+	--color-accent: #f8fafc;
+	--color-gold: #ff9500;
+	--color-powderblue: #bbc7dc;
+
+	--color-klarna: #ffa8cd;
+	--color-paypal: #ffd140;
+	--color-spotify: #1ed760;
+
+	--font-display: "Inter", "sans-serif";
+	--font-body: "Poppins", "sans-serif";
+	--font-accent: "Yaldevi", "sans-serif";
+}
