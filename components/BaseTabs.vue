@@ -2,7 +2,7 @@
 	<div class="bg-white">
 		<section
 			aria-labelledby="features-heading"
-			class="mx-auto max-w-7xl py-8 sm:px-2 sm:py-32 lg:px-8"
+			class="mx-auto max-w-7xl py-8 sm:px-2 sm:py-16 lg:px-8"
 		>
 			<div class="mx-auto max-w-2xl px-4 lg:max-w-none lg:px-0">
 				<div class="max-w-3xl">

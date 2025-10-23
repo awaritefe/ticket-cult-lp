@@ -1,7 +1,7 @@
 <template>
 	<div class="bg-white">
 		<div
-			class="mx-auto max-w-2xl px-4 py-24 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-8"
+			class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-16 lg:max-w-7xl lg:px-8"
 		>
 			<div
 				class="grid grid-cols-1 items-center gap-x-8 gap-y-16 lg:grid-cols-2"
@@ -35,7 +35,7 @@
 
 				<div>
 					<img
-						src="https://tailwindcss.com/plus-assets/img/ecommerce-images/product-feature-09-main-detail.jpg"
+						src="/images/friends.jpg"
 						alt="Black kettle with long pour spot and angled body on marble counter next to coffee mug and pour-over system."
 						class="aspect-video w-full rounded-lg bg-gray-100 object-cover"
 					/>
@@ -43,12 +43,12 @@
 						class="mt-4 grid grid-cols-2 gap-4 sm:mt-6 sm:gap-6 lg:mt-8 lg:gap-8"
 					>
 						<img
-							src="https://tailwindcss.com/plus-assets/img/ecommerce-images/product-feature-09-detail-01.jpg"
+							src="/images/tickets.jpg"
 							alt="Detail of temperature setting button on kettle bass with digital degree readout."
 							class="aspect-square w-full rounded-lg bg-gray-100 object-cover"
 						/>
 						<img
-							src="https://tailwindcss.com/plus-assets/img/ecommerce-images/product-feature-09-detail-02.jpg"
+							src="/images/stats.jpg"
 							alt="Kettle spout pouring boiling water into coffee grounds in pour-over mug."
 							class="aspect-square w-full rounded-lg bg-gray-100 object-cover"
 						/>

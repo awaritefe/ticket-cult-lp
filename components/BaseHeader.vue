@@ -29,7 +29,7 @@
 				<span class="sr-only">Your Company</span>
 				<Logo />
 			</a>
-			<div class="flex flex-1 justify-end">
+			<div class="hidden sm:flex flex-1 justify-end">
 				<a
 					href="#"
 					class="rounded-md bg-primary px-3.5 py-2.5 text-sm font-semibold text-black shadow-xs hover:bg-brandpink focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
@@ -61,7 +61,7 @@
 						<span class="sr-only">Your Company</span>
 						<Logo />
 					</a>
-					<div class="flex flex-1 justify-end">
+					<div class="hidden sm:flex flex-1 justify-end">
 						<a
 							href="#"
 							class="rounded-md bg-primary px-3.5 py-2.5 text-sm font-semibold text-black shadow-xs hover:bg-brandpink focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
