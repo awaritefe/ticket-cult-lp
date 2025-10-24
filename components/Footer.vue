@@ -15,7 +15,7 @@
 				</a>
 			</div>
 			<p class="mt-8 text-center text-sm/6 text-gray-100 md:order-1 md:mt-0">
-				&copy; 2024 <span class="font-medium text-primary">Ticket Cult</span>,
+				&copy; 2025 <span class="font-medium text-primary">Ticket Cult</span>,
 				Ltd. All rights reserved.
 			</p>
 		</div>
