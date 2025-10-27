@@ -22,14 +22,12 @@
 						</div>
 					</div>
 					<h1
-						class="mt-5 md:mt-10 text-3xl md:text-5xl font-semibold tracking-tight text-gray-900 sm:text-7xl"
+						class="mt-5 md:mt-10 text-3xl md:text-5xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl"
 					>
 						Fair ticketing. Real fans.
-						<span
-							class="text-primary bg-black inline-flex items-center !whitespace-nowrap !break-normal hyphens-none shrink-0"
+						<span class="text-primary bg-black whitespace-nowrap"
+							>No bullsht.*</span
 						>
-							No&nbsp;bullsht.*
-						</span>
 					</h1>
 					<p
 						class="mt-4 md:mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8"
