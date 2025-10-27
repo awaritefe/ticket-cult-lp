@@ -25,7 +25,7 @@
 						class="mt-5 md:mt-10 text-3xl md:text-5xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl"
 					>
 						Fair ticketing. Real fans.
-						<span class="text-primary bg-black whitespace-nowrap inline-block"
+						<span class="text-primary bg-black whitespace-nowrap break-keep"
 							>No bullsht.*</span
 						>
 					</h1>
