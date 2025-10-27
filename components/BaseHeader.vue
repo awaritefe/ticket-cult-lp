@@ -4,7 +4,7 @@
 		:class="[
 			'fixed top-3 left-0 right-0 z-50 transition-all duration-300',
 			scrolled
-				? 'mx-auto p-6 max-w-4xl bg-white/80 backdrop-blur-md shadow-md rounded-full ring-1 ring-black/5'
+				? 'mx-auto p-6 pl-8 max-w-4xl bg-white/80 backdrop-blur-md shadow-md rounded-full ring-1 ring-black/5'
 				: 'p-6 lg:px-8',
 		]"
 	>
