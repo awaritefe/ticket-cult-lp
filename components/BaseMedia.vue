@@ -1,10 +1,10 @@
 <template>
 	<div class="bg-white">
 		<div
-			class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-16 lg:max-w-7xl lg:px-8"
+			class="mx-auto max-w-2xl px-4 py-8 sm:px-6 sm:py-16 lg:max-w-7xl lg:px-8"
 		>
 			<div
-				class="grid grid-cols-1 items-center gap-x-8 gap-y-16 lg:grid-cols-2"
+				class="grid grid-cols-1 items-center gap-x-8 gap-y-8 md:gap-y-16 lg:grid-cols-2"
 			>
 				<div>
 					<div class="border-b border-gray-200 pb-6">
@@ -18,7 +18,7 @@
 						</p>
 					</div>
 
-					<dl class="mt-6 space-y-10">
+					<dl class="mt-6 space-y-5 md:space-y-10">
 						<div v-for="feature in features" :key="feature.name">
 							<dt class="text-base font-medium text-gray-900">
 								{{ feature.name }}

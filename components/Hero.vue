@@ -2,7 +2,7 @@
 	<div class="bg-white">
 		<div class="relative isolate">
 			<div
-				class="mx-auto max-w-7xl px-6 py-8 sm:py-16 lg:flex lg:items-center lg:gap-x-10 lg:px-8"
+				class="mx-auto max-w-7xl px-6 pb-8 pt-28 lg:py-16 lg:flex lg:items-center lg:gap-x-10 lg:px-8"
 			>
 				<div class="mx-auto max-w-2xl lg:mx-0 lg:flex-auto">
 					<div class="flex">
@@ -22,12 +22,13 @@
 						</div>
 					</div>
 					<h1
-						class="mt-10 text-5xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl"
+						class="mt-5 md:mt-10 text-3xl md:text-5xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl"
 					>
-						Fair tickets. Real fans. No bullsht.*
+						Fair ticketing. Real fans.
+						<span class="text-primary bg-black">No bullsht.*</span>
 					</h1>
 					<p
-						class="mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8"
+						class="mt-4 md:mt-8 text-lg font-medium text-pretty text-gray-500 sm:text-xl/8"
 					>
 						We're rebuilding UK ticketing around fairness, transparency, and
 						trust — no bots, no hidden fees, no chaos. Just music, venues, and
@@ -44,7 +45,7 @@
 						>
 					</div>
 				</div>
-				<div class="mt-16 sm:mt-24 lg:mt-0 lg:shrink-0 lg:grow">
+				<div class="mt-8 md:mt-16 sm:mt-24 lg:mt-0 lg:shrink-0 lg:grow">
 					<svg
 						viewBox="0 0 366 729"
 						role="img"

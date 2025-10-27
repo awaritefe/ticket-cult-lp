@@ -57,7 +57,7 @@
 								class="flex flex-col-reverse lg:grid lg:grid-cols-12 gap-y-8 lg:gap-x-8"
 							>
 								<dl
-									class="grid grid-cols-1 gap-x-8 gap-y-10 text-sm sm:grid-cols-2 lg:col-span-7"
+									class="grid grid-cols-1 gap-x-8 gap-y-5 md:gap-y-10 text-sm sm:grid-cols-2 lg:col-span-7"
 								>
 									<div v-for="item in feature.items" :key="item.name">
 										<h3 class="text-lg font-medium text-gray-900">

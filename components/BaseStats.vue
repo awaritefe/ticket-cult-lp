@@ -34,7 +34,9 @@
 					cut out of their own audience. Organisers hold their breath, hoping
 					platforms won't crash.
 				</p>
-				<div class="mt-12 grid grid-cols-1 gap-x-6 gap-y-12 sm:grid-cols-2">
+				<div
+					class="mt-6 md:mt-12 grid grid-cols-1 gap-x-6 gap-y-6 md:gap-y-12 sm:grid-cols-2"
+				>
 					<p v-for="item in metrics" :key="item.id">
 						<span class="block text-2xl font-bold text-indigo-300">{{
 							item.stat
