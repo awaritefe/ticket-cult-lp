@@ -6,6 +6,7 @@
 		<BaseStats />
 		<BaseMedia />
 		<BaseContent />
+		<BaseCta />
 		<ContactForm />
 		<Footer />
 	</div>
