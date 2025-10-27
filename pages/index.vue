@@ -7,7 +7,7 @@
 		<BaseMedia />
 		<BaseContent />
 		<BaseCta />
-		<ContactForm />
+
 		<Footer />
 	</div>
 </template>
