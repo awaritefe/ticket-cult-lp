@@ -98,16 +98,3 @@ const people = [
 	},
 ];
 </script>
-
-<!-- <style scoped>
-h2::before {
-	content: "";
-	display: block;
-	position: absolute;
-	bottom: 0;
-	width: 150%;
-	height: 42%;
-	background-color: var(--color-primary);
-	z-index: -1;
-}
-</style> -->
