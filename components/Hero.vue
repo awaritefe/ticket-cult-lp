@@ -22,7 +22,7 @@
 						</div>
 					</div>
 					<h1
-						class="mt-5 md:mt-10 text-3xl md:text-5xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl"
+						class="mt-5 md:mt-10 text-3xl md:text-5xl/12 font-semibold tracking-tight text-pretty text-gray-900 sm:text-7xl"
 					>
 						Fair ticketing. Real fans.
 						<span class="text-primary bg-black whitespace-nowrap"
@@ -38,11 +38,11 @@
 					</p>
 					<div class="mt-10 flex items-center gap-x-6">
 						<a
-							href="#"
+							href="#contact-form"
 							class="rounded-md bg-primary px-3.5 py-2.5 text-sm font-semibold text-black shadow-xs hover:bg-brandpink focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 							>Stay in the loop</a
 						>
-						<a href="#" class="text-sm/6 font-semibold text-gray-900"
+						<a href="/faq" class="text-sm/6 font-semibold text-gray-900"
 							>Learn more <span aria-hidden="true">→</span></a
 						>
 					</div>

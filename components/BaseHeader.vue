@@ -33,13 +33,13 @@
 					</button>
 				</div>
 			</div>
-			<a href="#" class="-m-1.5 p-1.5">
+			<a href="/" class="-m-1.5 p-1.5">
 				<span class="sr-only">Your Company</span>
-				<Logo class="cursor-crosshair" :size="scrolled ? 'small' : ''" />
+				<Logo class="cursor-crosshair" :size="scrolled ? 'small' : null" />
 			</a>
 			<div class="hidden sm:flex flex-1 justify-end">
 				<a
-					href="#"
+					href="#contact-form"
 					class="bg-primary px-3.5 py-2.5 text-sm font-semibold text-black shadow-xs hover:bg-brandpink focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 					:class="scrolled ? 'rounded-full' : 'rounded-md'"
 					>Stay in the loop</a
@@ -72,7 +72,7 @@
 					</a>
 					<div class="hidden sm:flex flex-1 justify-end">
 						<a
-							href="#"
+							href="#contact-form"
 							class="rounded-md bg-primary px-3.5 py-2.5 text-sm font-semibold text-black shadow-xs hover:bg-brandpink focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 							>Stay in the loop</a
 						>

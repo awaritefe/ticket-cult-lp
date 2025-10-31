@@ -34,8 +34,8 @@
 										:class="[
 											selected
 												? 'border-indigo-500 text-indigo-600 focus-visible:outline-none focus-visible:ring-0'
-												: 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700',
-											'border-b-2 py-6 text-sm font-medium whitespace-nowrap',
+												: 'border-transparent text-gray-600  hover:border-gray-300 hover:text-indigo-600 ',
+											'border-b-4 py-6 text-sm sm:text-2xl font-medium whitespace-nowrap cursor-pointer',
 										]"
 									>
 										{{ tab.name }}
@@ -65,13 +65,13 @@
 										</h3>
 										<p
 											v-if="item.description"
-											class="mt-2 text-sm text-gray-500"
+											class="mt-2 text-sm text-gray-800"
 										>
 											{{ item.description }}
 										</p>
 										<ul
 											v-if="item.descriptionList"
-											class="mt-2 text-sm text-gray-500 space-y-1"
+											class="mt-2 text-sm text-gray-800 space-y-1"
 										>
 											<li v-for="line in item.descriptionList" :key="line">
 												{{ line }}

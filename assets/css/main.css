@@ -25,3 +25,9 @@
 	--font-body: "Poppins", "sans-serif";
 	--font-accent: "Yaldevi", "sans-serif";
 }
+
+@layer base {
+	html {
+		scroll-behavior: smooth;
+	}
+}

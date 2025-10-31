@@ -3,11 +3,10 @@
 		<BaseHeader />
 		<Hero />
 		<BaseTabs />
-		<BaseStats />
+		<!-- <BaseStats /> -->
 		<BaseMedia />
 		<BaseContent />
 		<BaseCta />
-		<ContactForm />
 		<Footer />
 	</div>
 </template>
