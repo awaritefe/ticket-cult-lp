@@ -1,5 +1,5 @@
 <template>
-	<div id="contact-form" class="overflow-hidden bg-white pt-28 py-16">
+	<div id="contact-form" class="overflow-hidden bg-white py-8 sm:py-16">
 		<div class="mx-auto max-w-7xl px-6 lg:flex lg:px-8">
 			<div
 				class="mx-auto grid max-w-2xl grid-cols-1 gap-x-12 gap-y-16 lg:mx-0 lg:max-w-none lg:min-w-full lg:flex-none lg:gap-y-8"

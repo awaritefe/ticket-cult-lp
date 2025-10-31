@@ -11,10 +11,7 @@
 				</h2>
 				<div class="mt-16 space-y-12">
 					<div v-for="([category, items], idx) in groupedFaqs" :key="category">
-						<h3
-							v-if="category"
-							class="text-xl text-right font-semibold text-indigo-700"
-						>
+						<h3 v-if="category" class="text-xl font-semibold text-indigo-700">
 							{{ category }}
 						</h3>
 						<dl class="mt-4 divide-y divide-gray-900/10">

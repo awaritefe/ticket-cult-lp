@@ -1,7 +1,7 @@
 <template>
 	<div class="bg-white py-16">
 		<div
-			class="mx-auto grid max-w-7xl grid-cols-1 gap-20 px-6 lg:px-8 xl:grid-cols-3"
+			class="mx-auto grid max-w-7xl grid-cols-1 gap-8 sm:gap-20 px-6 lg:px-8 xl:grid-cols-3"
 		>
 			<div class="mx-auto max-w-2xl lg:mx-0">
 				<h2
@@ -17,7 +17,7 @@
 			</div>
 			<ul
 				role="list"
-				class="mx-auto grid max-w-2xl grid-cols-1 gap-x-6 gap-y-20 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:gap-x-8 xl:col-span-2"
+				class="mx-auto grid max-w-2xl grid-cols-1 gap-x-6 gap-y-8 sm:gap-y-20 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:gap-x-8 xl:col-span-2"
 			>
 				<li v-for="person in people" :key="person.name">
 					<img
